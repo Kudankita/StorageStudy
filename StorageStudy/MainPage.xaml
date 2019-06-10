@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <Button x:Name="Start" Click="Start_Click" Content="START" FontSize="50" HorizontalAlignment="Left" Margin="445,508,0,0" VerticalAlignment="Top" Height="119" Width="181"/>
 
     </Grid>
 </Page>
